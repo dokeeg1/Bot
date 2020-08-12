@@ -1,5 +1,1 @@
-"
-
-start of something big
-
-"
+"start of something big"
